@@ -4,3 +4,5 @@ As a response, we give the possibility to :
 - The machine is secured with a password. 
 - Moreover, it prevents the worker with error messages and LED blink, 
 - if worker are in danger, and even stop it.
+- There's a interrupt button 
+![This is an image](https://myoctocat.com/assets/images/circuit_design.jpg)
